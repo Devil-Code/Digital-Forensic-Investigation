@@ -6,6 +6,11 @@ This document details the digital forensic investigation conducted by me as a pa
 
 *Note: This incidence is fake and intended for educational purposes only. Unauthorized access, distribution, or disclosure is very much legal.*
 
+## Appendices
+- **Appendix A**: Packet Logs
+- **Appendix B**: Screenshots of Key Findings
+- **Appendix C**: Report of the Complete Investigation
+  
 ## Table of Contents
 - [Investigation Objectives](#investigation-objectives)
 - [Tools Used](#tools-used)
@@ -16,7 +21,6 @@ This document details the digital forensic investigation conducted by me as a pa
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
 - [Certifications](#certification)
-- [Appendices](#appendices)
 - [Contact Information](#contact-information)
 
 ## Investigation Objectives
@@ -154,12 +158,8 @@ Further steps include verifying with CCTV footage and witness testimonies to sol
 I hereby certify that the work presented above was personally performed by me and the opinions and conclusions stated are my own based upon the work that I performed.
 
 **Pritesh Bharat Gandhi**
-Signature
 
-## Appendices
-- **Appendix A**: Packet Logs
-- **Appendix B**: Screenshots of Key Findings
-- **Appendix C**: Report of the Complete Investigation
+Signature
 
 ## Contact Information
 
